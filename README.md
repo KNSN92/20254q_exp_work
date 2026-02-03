@@ -35,14 +35,14 @@
 - 国語
 - 数学
 - 言語
-  -英語
-  -中国語
-  -韓国語
+  - 英語
+  - 中国語
+  - 韓国語
 - 理科
 - 社会
 - クリエイター系
-  -blender
-  -Unity
-  -java
-  -html
+  - blender
+  - Unity
+  - java
+  - html
 - 
